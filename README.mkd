@@ -1,0 +1,5 @@
+# hudigraphs_utf8.vim
+
+https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup/blob/master/plugin/hudigraphs_utf8.vim
+
+All credit to Damian Conway.
